@@ -8,4 +8,5 @@
 JuneRhomel/JuneRhomel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://june-rhomel-portfolio-a0305.web.app/
+[https://june-rhomel-portfolio-a0305.web.app/
+](https://portfolio-june-rhomel.vercel.app/)
